@@ -1,16 +1,108 @@
-## Hi there 👋
+<h1 align="center">🌸 Hi there, I'm Taniya Nagdeve 🌸</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | CI/CD | Automation</h3>
 
-<!--
-**tanniiiyaa/tanniiiyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building scalable cloud infrastructure, automating deployments, and improving development workflows through DevOps practices.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌼 About Me
+
+- 💻 DevOps Engineer passionate about **Cloud & Infrastructure Automation**
+- ☁️ Working with **AWS, Azure, and Google Cloud**
+- ⚙️ Building **CI/CD pipelines**
+- 🐳 Containerizing applications using **Docker**
+- ☸️ Deploying applications using **Kubernetes**
+- 📊 Monitoring infrastructure using **Prometheus & Grafana**
+- 📚 Always learning new **DevOps and cloud technologies**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-red?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### ⚙️ DevOps & CI/CD
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+### 💻 Languages & Scripting
+
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+---
+
+### 📊 Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
+
+---
+
+### 🗂️ Version Control
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔹 CI/CD Pipeline with Jenkins
+- Automated build and deployment workflows  
+- Integrated **GitHub, Docker, and Jenkins**  
+- Reduced manual deployment effort  
+
+### 🔹 Kubernetes Application Deployment
+- Containerized applications using **Docker**  
+- Deployed workloads on **Kubernetes clusters**  
+- Implemented scalable microservices architecture  
+
+### 🔹 Infrastructure Automation with Terraform
+- Provisioned **AWS infrastructure** using Terraform  
+- Created reusable **Infrastructure as Code modules**  
+- Automated cloud environment setup  
+
+### 🔹 Monitoring Stack with Prometheus & Grafana
+- Implemented monitoring stack  
+- Built dashboards for infrastructure metrics  
+- Real-time monitoring and alerting  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tanniiiyaa&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanniiiyaa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/taniya-nagdeve-266a76210  
+- 📧 Email: ntaniyaa7@gmail.com  
+- 🐙 GitHub: https://github.com/tanniiiyaa  
+
+---
+
+⭐ *Always learning, building, and growing in the DevOps journey.*

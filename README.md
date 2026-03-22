@@ -1,75 +1,108 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,ff69b4&height=120&section=header&text=Taniya%20Nagdeve&fontColor=ffffff&fontSize=35"/>
-</p>
-
-<h3 align="center">DevOps Engineer | Cloud | CI/CD | Automation</h3>
+<h1 align="center">🌸 Hi there, I'm Taniya Nagdeve 🌸</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | CI/CD | Automation</h3>
 
 <p align="center">
-  Building scalable infrastructure • Automating deployments • Improving reliability
+Building scalable cloud infrastructure, automating deployments, and improving development workflows through DevOps practices.
 </p>
 
 ---
 
-##  About Me
+## 🌼 About Me
 
-- DevOps Engineer focused on **scalable cloud infrastructure**
-- Experience with **AWS, Azure, and Google Cloud**
-- Strong in **CI/CD pipelines, Docker, Kubernetes**
-- Passionate about **automation and system reliability**
-- Monitoring using **Prometheus & Grafana**
-
----
-
-## ⚙️ Tech Stack
-
-**Cloud**  
-AWS • Azure • Google Cloud  
-
-**DevOps & CI/CD**  
-Docker • Kubernetes • Jenkins • Terraform • GitHub Actions  
-
-**Scripting**  
-Bash • Python  
-
-**Monitoring**  
-Prometheus • Grafana  
+- 💻 DevOps Engineer passionate about **Cloud & Infrastructure Automation**
+- ☁️ Working with **AWS, Azure, and Google Cloud**
+- ⚙️ Building **CI/CD pipelines**
+- 🐳 Containerizing applications using **Docker**
+- ☸️ Deploying applications using **Kubernetes**
+- 📊 Monitoring infrastructure using **Prometheus & Grafana**
+- 📚 Always learning new **DevOps and cloud technologies**
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### CI/CD Pipeline (Jenkins)
-- Automated build and deployment workflows
-- Integrated GitHub, Docker, and Jenkins
-- Reduced manual deployment effort
+### ☁️ Cloud Platforms
 
-### Kubernetes Deployment
-- Containerized applications using Docker
-- Deployed on Kubernetes clusters
-- Designed scalable microservices architecture
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-red?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### Infrastructure Automation (Terraform)
-- Provisioned AWS infrastructure
-- Built reusable IaC modules
-- Automated environment setup
+---
 
-### Monitoring Stack
-- Implemented Prometheus & Grafana
-- Built dashboards and alerting system
+### ⚙️ DevOps & CI/CD
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+### 💻 Languages & Scripting
+
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+---
+
+### 📊 Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
+
+---
+
+### 🗂️ Version Control
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔹 CI/CD Pipeline with Jenkins
+- Automated build and deployment workflows  
+- Integrated **GitHub, Docker, and Jenkins**  
+- Reduced manual deployment effort  
+
+### 🔹 Kubernetes Application Deployment
+- Containerized applications using **Docker**  
+- Deployed workloads on **Kubernetes clusters**  
+- Implemented scalable microservices architecture  
+
+### 🔹 Infrastructure Automation with Terraform
+- Provisioned **AWS infrastructure** using Terraform  
+- Created reusable **Infrastructure as Code modules**  
+- Automated cloud environment setup  
+
+### 🔹 Monitoring Stack with Prometheus & Grafana
+- Implemented monitoring stack  
+- Built dashboards for infrastructure metrics  
+- Real-time monitoring and alerting  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanniiiyaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tanniiiyaa&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanniiiyaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/taniya-nagdeve-266a76210  
-- Email: ntaniyaa7@gmail.com  
-- GitHub: https://github.com/tanniiiyaa  
+- 💼 LinkedIn: https://www.linkedin.com/in/taniya-nagdeve-266a76210  
+- 📧 Email: ntaniyaa7@gmail.com  
+- 🐙 GitHub: https://github.com/tanniiiyaa  
+
+---
+
+⭐ *Always learning, building, and growing in the DevOps journey.*

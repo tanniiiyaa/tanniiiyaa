@@ -11,106 +11,100 @@
 
 ---
 
-## 🌷 Professional Summary  
+## 🌼 About Me
 
-DevOps Engineer with expertise in **cloud infrastructure, CI/CD pipeline design, and automation**.  
-Experienced in building **scalable, fault-tolerant, and production-ready systems** using modern DevOps practices.
-
-Core focus areas:
-- Infrastructure as Code (IaC)  
-- Continuous Integration / Continuous Deployment (CI/CD)  
-- Containerization & Orchestration  
-- Observability & System Reliability  
-
----
-
-## 🌼 Technical Stack  
-
-**Cloud Platforms**  
-- AWS  
-
-**Containerization & Orchestration**  
-- Docker  
-- Kubernetes  
-
-**Infrastructure as Code**  
-- Terraform  
-
-**CI/CD & Automation**  
-- Jenkins  
-- GitHub Actions  
-
-**Monitoring & Tools**  
-- SonarQube  
-- Linux (Shell Scripting, System Administration)  
-- Git  
+- 💻 DevOps Engineer passionate about **Cloud & Infrastructure Automation**
+- ☁️ Working with **AWS, Azure, and Google Cloud**
+- ⚙️ Building **CI/CD pipelines**
+- 🐳 Containerizing applications using **Docker**
+- ☸️ Deploying applications using **Kubernetes**
+- 📊 Monitoring infrastructure using **Prometheus & Grafana**
+- 📚 Always learning new **DevOps and cloud technologies**
 
 ---
 
-## 🌸 Core Competencies  
+## 🛠️ Tech Stack
 
-- Design and implementation of **end-to-end CI/CD pipelines**  
-- Infrastructure provisioning using **Terraform (IaC principles)**  
-- Deployment and management of **containerized workloads**  
-- Implementation of **monitoring and logging solutions**  
-- Ensuring **high availability, scalability, and reliability**  
+### ☁️ Cloud Platforms
 
----
-
-## 🌺 Key Projects  
-
-### 🔹 End-to-End CI/CD Pipeline  
-- Built CI/CD pipeline using **Jenkins, Docker, and Kubernetes**  
-- Automated build, test, and deployment workflows  
-- Improved deployment efficiency and reduced manual intervention  
-
-### 🔹 Infrastructure Provisioning using Terraform  
-- Developed reusable Terraform modules for AWS infrastructure  
-- Enabled consistent and repeatable environment setup  
-- Followed best practices for state and resource management  
-
-### 🔹 Monitoring & Logging System  
-- Implemented logging and monitoring strategies  
-- Improved system observability and incident response  
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-red?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🌼 GitHub Analytics  
+### ⚙️ DevOps & CI/CD
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+### 💻 Languages & Scripting
+
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+---
+
+### 📊 Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
+
+---
+
+### 🗂️ Version Control
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔹 CI/CD Pipeline with Jenkins
+- Automated build and deployment workflows  
+- Integrated **GitHub, Docker, and Jenkins**  
+- Reduced manual deployment effort  
+
+### 🔹 Kubernetes Application Deployment
+- Containerized applications using **Docker**  
+- Deployed workloads on **Kubernetes clusters**  
+- Implemented scalable microservices architecture  
+
+### 🔹 Infrastructure Automation with Terraform
+- Provisioned **AWS infrastructure** using Terraform  
+- Created reusable **Infrastructure as Code modules**  
+- Automated cloud environment setup  
+
+### 🔹 Monitoring Stack with Prometheus & Grafana
+- Implemented monitoring stack  
+- Built dashboards for infrastructure metrics  
+- Real-time monitoring and alerting  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntaniyaa7&show_icons=true&theme=default&title_color=F78DA7&icon_color=F78DA7" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntaniyaa7&theme=default&ring=F78DA7&fire=F78DA7" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanniiiyaa&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntaniyaa7&theme=minimal&color=F78DA7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanniiiyaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌷 DevOps Philosophy  
+## 🌐 Connect With Me
 
-- Automate repetitive processes to improve efficiency  
-- Use Infrastructure as Code for consistency and reproducibility  
-- Design systems for scalability and fault tolerance  
-- Ensure observability through monitoring and logging  
-
----
-
-## 🌸 Contribution Activity  
-
-![Snake animation](https://github.com/ntaniyaa7/ntaniyaa7/blob/output/github-contribution-grid-snake.svg)
+- 💼 LinkedIn: https://www.linkedin.com/in/taniya-nagdeve-266a76210  
+- 📧 Email: ntaniyaa7@gmail.com  
+- 🐙 GitHub: https://github.com/tanniiiyaa  
 
 ---
-
-## 🌺 Contact  
-
-- 📫 Email: ntaniyaa7@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-
----
-
-## 🌼 Engineering Workflow  
-
-```bash
-build → test → integrate → deploy → monitor → optimize

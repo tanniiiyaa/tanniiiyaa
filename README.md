@@ -1,13 +1,12 @@
-<h1 align="center">🌸 Hola, I'm Taniya Nagdeve 🌸</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | CI/CD | Automation</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=220&section=header&text=Taniya%20Nagdeve&fontSize=48&fontColor=000000&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20CI%2FCD&descAlignY=65&descAlign=50" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=Cloud+Infrastructure+Engineering;CI%2FCD+Pipeline+Automation;Containerization+%26+Orchestration;Infrastructure+as+Code" />
-</p>
+  <h2>🌸 Hola, I'm Taniya 🌸</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ntaniyaa7&color=F78DA7&style=flat-square" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineering;CI%2FCD+Pipeline+Automation;Kubernetes+%26+Containerization;Infrastructure+as+Code" />
+</div>
+
+---
 
 ---
 

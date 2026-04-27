@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=220&section=header&text=Taniya%20Nagdeve&fontSize=48&fontColor=000000&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20CI%2FCD&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=220&section=header&text=Taniya%20Nagdeve&fontSize=48&fontColor=000000&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20CI%2FCD%20%7C%20Automation&descAlignY=65&descAlign=50" />
 
   <h2>🌸 Hola, I'm Taniya 🌸</h2>
 

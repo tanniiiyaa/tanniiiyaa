@@ -10,7 +10,7 @@
 
 ---
 
-## 🌼 About Me
+## 🌷 About Me
 
 - 💻 DevOps Engineer passionate about **Cloud & Infrastructure Automation**
 - ☁️ Working with **AWS, Azure, and Google Cloud**
@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 DevOps Projects
+## 🤖 DevOps Projects
 
 ### 🔹 CI/CD Pipeline with Jenkins
 - Automated build and deployment workflows  

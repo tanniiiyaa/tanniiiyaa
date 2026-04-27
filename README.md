@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Hola, I'm Taniya Nagdeve 🌸</h1>
-### DevOps Engineer | Cloud Infrastructure | CI/CD Automation  
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | CI/CD | Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=Cloud+Infrastructure+Engineering;CI%2FCD+Pipeline+Automation;Containerization+%26+Orchestration;Infrastructure+as+Code" />

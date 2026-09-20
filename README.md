@@ -1,16 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDF00&height=360&section=header&text=Taniya%20Nagdeve&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20CI%2FCD%20%7C%20Automation&descAlignY=65&descAlign=50" />
 
-  <h2>🌸 Hola, I'm Taniya 🌸</h2>
+  <h2> Hola, I'm Taniya </h2>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineering;CI%2FCD+Pipeline+Automation;Kubernetes+%26+Containerization;Infrastructure+as+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFF600&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Engineering;CI%2FCD+Pipeline+Automation;Kubernetes+%26+Containerization;Infrastructure+as+Code" />
 </div>
 
 ---
 
 ---
 
-## 🌷 About Me
+## 🌻 About Me
 
 - 💻 DevOps Engineer passionate about **Cloud & Infrastructure Automation**
 - ☁️ Working with **AWS, Azure, and Google Cloud**
